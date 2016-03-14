@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: dpcs
+Upstream-Contact: Grzegorz Zuk, <grzuk7@gmail.com>
+
+Files: *
+Copyright: 2016, dpcs-team, <grzuk7@gmail.com>
+License: LGPL-3
